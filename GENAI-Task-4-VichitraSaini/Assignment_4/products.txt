@@ -1,0 +1,3 @@
+Laptop | 60000
+Mobile | 55000
+Printer | 20000

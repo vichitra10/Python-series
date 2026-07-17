@@ -11,4 +11,4 @@ print(apply_discount(1000,10)) ## use discount amount
 
 print(apply_discount(500)) ## use default discount amount
 
-print(apply_discount(20000, 70)) ## Discount never exceeds 60%
+print(apply_discount(20000, 70)) ## Discount never exceeds 60%~``
